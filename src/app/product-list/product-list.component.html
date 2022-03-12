@@ -1,0 +1,14 @@
+<section class="up-products-list">
+    <h1 class="up-products-list__title">Products</h1>
+    <ul class="up-products-list__container">
+        <li class="up-products-list__product" *ngFor="let product of products">
+            <h2 class="up-products-list__product-title">{{product.name}}</h2>
+            <p class="up-products-list__product-description">{{product.description}}</p>
+            <button class="up-button up-products-list__product-button" (click)="handleClick(product)">
+                <span class="up-products-list__product-button-text">
+                    Share
+                </span>
+            </button>
+        </li>
+    </ul>
+</section>

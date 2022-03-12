@@ -1,0 +1,21 @@
+.up-header {
+  background: #1976D2;
+  min-height: 75px;
+  display: flex;
+  align-items: center;
+
+  &__container {
+    width: 800px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0 10px;
+  }
+
+  &__title {
+    color: #fff;
+    font-size: 30px;
+  }
+}

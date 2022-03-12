@@ -1,0 +1,28 @@
+.up-products-list {
+ max-width: 800px;
+  margin: auto;
+  padding: 0 10px;
+  margin-top: 20px;
+
+  &__container {
+    list-style: none;
+    padding: 0;
+  }
+
+  &__product {
+    margin-bottom: 20px;
+
+    &-title {
+      color: #1976D2;
+    }
+
+    &-button {
+      background: #1976D2;
+      min-height: 30px !important;
+
+      &-text {
+        color: white;
+      }
+    }
+  }
+}

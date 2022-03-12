@@ -1,27 +1,55 @@
-# SinglePageAngular
+<p align="center">
+  <a href="https://github.com/viniciusgugelmin/singl-page-angular">
+    <img src="info/readme.png" alt="readme-logo" width="80" height="80">
+  </a>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+<h3 align="center">singl-page-angular</h3>
 
-## Development server
+  <p align="center">
+    SPA Angular
+    <br />
+    <a href="https://github.com/viniciusgugelmin/singl-page-angular"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/viniciusgugelmin/singl-page-angular/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/viniciusgugelmin/singl-page-angular/issues">Request Feature</a>
+  </p>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<details open="open">
+  <summary><h2 style="display: inline-block">Abstract</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-## Code scaffolding
+## About The Project
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+4fun project
 
-## Build
+## Roadmap
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+See the [open issues](https://github.com/viniciusgugelmin/singl-page-angular/issues) for a list of proposed features (and known
+issues).
 
-## Running unit tests
+## Contributing
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Any contributions you make are **greatly appreciated**.
 
-## Running end-to-end tests
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/<featureName>`)
+3. Commit your Changes (`git commit -m '<Description of the feature added>'`)
+4. Push to the Branch (`git push origin feature/<featureName>`)
+5. Open a Pull Request
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Contact
 
-## Further help
+Vinícius Kruchelski Gugelmin - vinigugelmin@gmail.com
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Project Link: [https://github.com/viniciusgugelmin/singl-page-angular](https://github.com/viniciusgugelmin/singl-page-angular)
